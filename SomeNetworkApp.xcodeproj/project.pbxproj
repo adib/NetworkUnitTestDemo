@@ -32,6 +32,7 @@
 		C0CC0AFD24B33C8400395604 /* TestProtocolHandler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestProtocolHandler.swift; sourceTree = "<group>"; };
 		C0CC0B0024B33D5500395604 /* ExampleNetworkClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleNetworkClient.swift; sourceTree = "<group>"; };
 		C0CC0B0324B33E7500395604 /* ExampleNetworkClientTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleNetworkClientTests.swift; sourceTree = "<group>"; };
+		C0E83BC424BC903500A1D9A8 /* README.markdown */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.markdown; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +56,7 @@
 		C0CC0ACD24B334BC00395604 = {
 			isa = PBXGroup;
 			children = (
+				C0E83BC424BC903500A1D9A8 /* README.markdown */,
 				C0CC0AFB24B33BB100395604 /* Tests */,
 				C0CC0AD824B334BC00395604 /* SomeNetworkApp */,
 				C0CC0AD724B334BC00395604 /* Products */,
